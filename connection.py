@@ -12,7 +12,7 @@ Follows standard ACID transaction management.
 from mysql.connector import connect, Error
 
 USER     = 'root'
-PASSWORD = 'Animesucks69*'
+PASSWORD = 'TBD'
 DATABASE = 'cookBooked'
 HOST     = 'localhost'
 
